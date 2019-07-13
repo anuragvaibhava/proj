@@ -1,0 +1,44 @@
+
+    #field{
+        width:50px;
+        
+    }
+
+  body{
+
+    background-color: antiquewhite;
+    background-image: url(img3.jpg);
+  }
+
+  #user_reg{
+    
+    margin-left:500px;
+    background-image:url(img1.jpg);
+    text-align: center;
+    background-color: khaki;
+    
+    width: 250px;
+    padding:5px;
+    border:5px outset orange;
+    border-width: 5px;
+    border-radius: 15px;
+    opacity: 0.7;
+   
+  }
+  #user_reg:hover{
+      opacity: 1;
+      font-weight: bold;
+     
+  }
+  
+  #button{
+      border-width: 5px;
+      border-radius: 10px;
+      padding: 3px;
+  }
+
+  #button:hover{
+      background-color: blueviolet;
+      font-weight: bold;
+  }
+  

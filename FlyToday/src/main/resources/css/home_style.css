@@ -1,0 +1,27 @@
+body{
+    background-color:darkslateblue;
+    
+    
+
+}
+
+#log{
+    margin-left:450px;
+    
+    text-align: center;
+    background-color:khaki;
+    margin-top: 150px;
+    width: 350px;
+    
+    padding:50px;
+    border:5px outset lightsalmon;
+    border-width: 5px;
+    border-radius: 15px;
+    opacity: 0.7;
+    
+}
+#log:hover{
+    opacity: 1;
+    font-weight: bold;
+   
+}
