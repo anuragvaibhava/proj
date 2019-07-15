@@ -27,7 +27,7 @@ public class UserController {
 		return "signUp";
 	}
 	
-	@PostMapping("/signup")
+	@PostMapping("/signup")                                          // actions is signup
 	public String saveUser(@ModelAttribute("user") User user) {
 		userService.saveUser(user);
 		
